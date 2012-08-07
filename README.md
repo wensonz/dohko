@@ -1,4 +1,4 @@
-Dohko
+dohko
 =====
 
-A nodejs version of Chubby with HTTP as the transport protocol
+A nodejs version of Google's Chubby with HTTP as the transport protocol
